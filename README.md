@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 4 years of experience working with data, having started as a data analyst, then data scientist, and for the past 3 years, as a data engineer. I work with Python, SQL, PySpark, and AWS services like Glue, S3, Redshift, and IAM. I have hands-on experience building scalable, production-grade pipelines using the medallion architecture, with automation and orchestration through serverless services. I also use Flask for API development and apply infrastructure-as-code practices using Terraform. I'm passionate about clean engineering, automation, and creating end-to-end data solutions that drive business value.
+I have 5 years of experience working with data, having started as a data analyst, then data scientist, and for the past 3 years, as a data engineer. I work with Python, SQL, PySpark, and AWS services like Glue, S3, Redshift, and IAM. I have hands-on experience building scalable, production-grade pipelines using the medallion architecture, with automation and orchestration through serverless services. I also use Flask for API development and apply infrastructure-as-code practices using Terraform. I'm passionate about clean engineering, automation, and creating end-to-end data solutions that drive business value.
 
 
 ## 🌐 Socials:
